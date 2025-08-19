@@ -4,4 +4,4 @@ const router =express.Router();
 
 router.route("/register").post(register);
 
-export default router;
+export default router;  
